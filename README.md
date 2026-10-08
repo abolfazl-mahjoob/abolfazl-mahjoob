@@ -30,6 +30,10 @@ These are product and architecture case studies—not public mirrors of propriet
 
 [Review the code →](https://github.com/abolfazl-mahjoob/reliable-webhook-inbox) · [Verified CI →](https://github.com/abolfazl-mahjoob/reliable-webhook-inbox/actions/workflows/ci.yml)
 
+**[Market Price Watcher](https://github.com/abolfazl-mahjoob/market-price-watcher)** — a standalone TypeScript, Playwright and PostgreSQL market-data watcher adapted from the engineering challenges of Zarnoush. Covers shared-browser session isolation, fixed-point Persian price normalization, transactional price history, out-of-order protection, source health and real Chromium/PostgreSQL tests.
+
+[Explore the code →](https://github.com/abolfazl-mahjoob/market-price-watcher) · [Verified CI →](https://github.com/abolfazl-mahjoob/market-price-watcher/actions/workflows/ci.yml)
+
 ## What I work with
 
 | Area | Technologies |
