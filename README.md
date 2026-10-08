@@ -26,6 +26,10 @@ These are product and architecture case studies—not public mirrors of propriet
 
 [Read the code →](https://github.com/abolfazl-mahjoob/persian-retrieval-core) · [Quality gate →](https://github.com/abolfazl-mahjoob/persian-retrieval-core/actions/workflows/ci.yml)
 
+**[Reliable Webhook Inbox](https://github.com/abolfazl-mahjoob/reliable-webhook-inbox)** — a NestJS + PostgreSQL reference implementation adapted from Amoozyar's webhook reliability work. Covers raw-body HMAC, tenant-aware deduplication, durable inbox claims, transactional local effects, crash recovery, retries, dead-letter handling and concurrency tests against real PostgreSQL.
+
+[Review the code →](https://github.com/abolfazl-mahjoob/reliable-webhook-inbox) · [Verified CI →](https://github.com/abolfazl-mahjoob/reliable-webhook-inbox/actions/workflows/ci.yml)
+
 ## What I work with
 
 | Area | Technologies |
