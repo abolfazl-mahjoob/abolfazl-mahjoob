@@ -1,16 +1,50 @@
-## Hi there 👋
+# Abolfazl Mahjoob
 
-<!--
-**abolfazl-mahjoob/abolfazl-mahjoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Product-minded software engineer · Full-stack development · System architecture**
 
-Here are some ideas to get you started:
+I build digital products end to end—from defining the problem and shaping the user experience to designing APIs, implementing systems, and preparing them for real-world use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work spans education technology, trading and business platforms, and developer-oriented web products. I care about clear domain boundaries, maintainable code, pragmatic architecture, and reliable delivery.
+
+[Selected work](#selected-work) · [Engineering approach](#how-i-work) · [Mimyar](https://mimyar.site)
+
+---
+
+## Selected work
+
+| Product | What I worked on | Engineering case study |
+| --- | --- | --- |
+| **[Amoozyar](https://amoozyar.site)** | Education platform with multi-surface course delivery, secure playback, live sessions, and administration | [Architecture & decisions](case-studies/amoozyar.md) |
+| **[Zarnoush](https://zarnoushgold.ir)** | Digital gold and agency-oriented business platform; pricing workflows, domain modeling, backend architecture | [Architecture & decisions](case-studies/zarnoush.md) |
+| **[Mimyar](https://mimyar.site)** | Digital product studio and tools platform; product UX, full-stack development, platform foundations | [Architecture & decisions](case-studies/mimyar.md) |
+
+These are product and architecture case studies—not public mirrors of proprietary repositories. Each write-up explains the problem, my engineering focus, a simplified system view, and the trade-offs behind important decisions.
+
+## What I work with
+
+| Area | Technologies |
+| --- | --- |
+| **Backend & APIs** | Go, TypeScript, Node.js, NestJS |
+| **Frontend** | React, Next.js, TypeScript |
+| **Cross-platform** | Flutter |
+| **Data & asynchronous work** | PostgreSQL, Redis, Prisma, queues and workers |
+| **Infrastructure & operations** | Docker, Nginx, object storage, CI, deployment workflows |
+| **Product delivery** | System design, product discovery, UX, technical planning, quality assurance |
+
+I choose technologies based on constraints and product needs—not loyalty to a particular stack.
+
+## How I work
+
+**Start with the product problem.** Understand user needs, operational constraints, and the smallest meaningful delivery before selecting implementation details.
+
+**Keep architecture proportional.** Prefer clear interfaces, explicit ownership, and deployable simplicity over premature complexity.
+
+**Treat reliability as part of the product.** Tests, CI checks, migrations, access control, documentation, and deployment impact are part of engineering—not afterthoughts.
+
+**Think across disciplines.** Product decisions affect data models, UX affects API design, and infrastructure choices affect what the business can sustainably ship.
+
+## Source code and collaboration
+
+Much of my recent work is commercial or actively developed, so the underlying repositories are private. Public case studies describe selected architecture and decisions without exposing client code, credentials, or confidential business details.
+
+For collaboration or a technical walkthrough, you can reach me through [GitHub](https://github.com/abolfazl-mahjoob) or [Mimyar](https://mimyar.site).
