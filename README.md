@@ -20,6 +20,12 @@ My work spans education technology, trading and business platforms, and develope
 
 These are product and architecture case studies—not public mirrors of proprietary repositories. Each write-up explains the problem, my engineering focus, a simplified system view, and the trade-offs behind important decisions.
 
+## Open-source engineering
+
+**[Persian Retrieval Core](https://github.com/abolfazl-mahjoob/persian-retrieval-core)** — a standalone, MIT-licensed Python package adapted from real Persian-language retrieval work: text normalization, heading-aware chunking, BM25, reciprocal-rank fusion, and evaluation helpers. Includes automated tests, multi-version CI and Docker verification.
+
+[Read the code →](https://github.com/abolfazl-mahjoob/persian-retrieval-core) · [Quality gate →](https://github.com/abolfazl-mahjoob/persian-retrieval-core/actions/workflows/ci.yml)
+
 ## What I work with
 
 | Area | Technologies |
